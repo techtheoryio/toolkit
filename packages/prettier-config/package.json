@@ -1,0 +1,23 @@
+{
+  "name": "@tchthry/prettier-config",
+  "version": "0.0.1",
+  "description": "A shareable Prettier configuration",
+  "main": "index.js",
+  "repository": "https://github.com/techtheoryio/toolkit",
+  "author": {
+    "name": "TechTheory",
+    "email": "info@techtheory.io",
+    "url": "https://techtheory.io"
+  },
+  "license": "MIT",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "prettier": "^2.3.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}

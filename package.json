@@ -1,0 +1,24 @@
+{
+  "name": "@tchthry/toolkit",
+  "version": "1.0.0",
+  "description": "A collection of tools, scripts & components for developing applications at TechTheory.",
+  "repository": "https://github.com/techtheoryio/toolkit",
+  "author": {
+    "name": "TechTheory",
+    "email": "info@techtheory.io",
+    "url": "https://techtheory.io"
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "clean": "lerna clean --yes",
+    "test": "lerna run test --stream",
+    "lint": "lerna run lint --stream",
+    "publish:ci": "lerna publish from-package --yes --no-verify-access",
+    "lerna": "lerna"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "license": "MIT",
+  "private": true
+}

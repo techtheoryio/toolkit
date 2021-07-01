@@ -1,0 +1,14 @@
+{
+    "packages": [
+        "packages/*"
+    ],
+    "version": "independent",
+    "npmClient": "yarn",
+    "command": {
+        "version": ["develop"]
+    },
+    "ignoreChanges": [
+        "**/node_modules/**",
+        "**/*.md"
+    ]
+}
