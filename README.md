@@ -1,5 +1,5 @@
 # TechTheory Toolkit
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/techtheoryio/toolkit/CI?style=flat-square)
+![GitHub Workflow Status](https://github.com/techtheoryio/toolkit/workflows/Release/badge.svg)
 
 > A set of packages and modules for building projects at [TechTheory](https://techtheory.io).
 
